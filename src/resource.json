@@ -2650,5 +2650,16 @@
     "tag_en": "Tools & Resources",
     "logo": "/images/xpnetwork.png",
     "image": ""
+  },
+  {
+    "name": "WP Smart Contracts",
+    "name_en": "WP Smart Contracts",
+    "desc": "WP Smart Contracts 是一个 WordPress 插件，允许您在 Gnosis Chain 和许多其他网络上管理、部署智能合约并与之交互",
+    "desc_en": "WP Smart Contracts is a WordPress plugin that allows you to manage, deploy and interact with smart contracts on Gnosis Chain and many other networks",
+    "url": "https://bridge.xp.network/",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/wpsc.png",
+    "image": ""
   }
 ]
